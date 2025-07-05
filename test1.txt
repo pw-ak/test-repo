@@ -1,4 +1,4 @@
-lololo
+replaced in feature2 branch
 
 edited locally.
 
@@ -7,3 +7,5 @@ modified at GH.
 Another modification at GH.
 
 And yet another mod at GH.
+
+added in feature2 branch
